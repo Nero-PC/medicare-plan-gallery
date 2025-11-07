@@ -1,0 +1,19 @@
+[
+  {
+    "id": "H5521-404",
+    "carrier": "Aetna",
+    "logo": "/logos/aetna.png",
+    "name": "Aetna Medicare Signature Extra PPO",
+    "rating": 4.0,
+    "premium": 0,
+    "deductible": 0,
+    "moops": 4700,
+    "type": "PPO",
+    "dentalMax": 2000,
+    "vision": 250,
+    "hearing": 1000,
+    "fitness": "SilverSneakers",
+    "rebate": true,
+    "noCommission": false
+  }
+]
